@@ -1,0 +1,9 @@
+{
+    "name": "SortedModConsole",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Davesc0/LC-SortedModConsole",
+    "description": "In-game log console with a tab for every mod. Filter, search, and read without it jumping to the bottom.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
